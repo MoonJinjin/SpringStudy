@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;BasicSpring&apos;&#x0D;&#x0A;- Original project: &apos;BasicSpring&apos;&#x0D;&#x0A;- Original element: &apos;kr.hs.study.beans.DataBean.java&apos;" description="Delete element" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;kr.hs.study.beans{DataBean.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1615876562659" subPackages="false" version="1.0"/>
-</session>

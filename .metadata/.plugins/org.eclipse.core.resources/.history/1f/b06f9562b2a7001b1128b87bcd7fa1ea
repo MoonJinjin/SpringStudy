@@ -1,7 +1,0 @@
-package kr.hs.study.dao;
-
-import javax.swing.tree.RowMapper;
-
-public class MapperClass implements RowMapper<LoginDTO>{
-
-}
